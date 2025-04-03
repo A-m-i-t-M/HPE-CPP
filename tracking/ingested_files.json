@@ -1,0 +1,620 @@
+{
+  "scraped_data_scraped_data.json_1743012471.7535384": {
+    "timestamp": "2025-04-02T16:48:47.920776",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/acls_832x-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:50:13.545884",
+    "title": "ACLs and Classifiers Policy Guide (8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/diagnostics_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:50:42.673338",
+    "title": "Diagnostics and Supportability Guide (8100, 83xx, 9300, 1000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/elmrg.pdf": {
+    "timestamp": "2025-04-02T16:51:00.560967",
+    "title": "Event Log Message Reference Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/ip_route_6300-6400-8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:51:55.172863",
+    "title": "IP Routing Guide (6300, 6400, 8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/ip_services_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:52:16.898327",
+    "title": "IP Services Guide (8100, (83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/l2_bridging_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:52:41.691536",
+    "title": "Layer 2 Bridging Guide (8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/link_aggregation.pdf": {
+    "timestamp": "2025-04-02T16:52:52.838738",
+    "title": "Link Aggregation Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/monitoring_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:53:07.170556",
+    "title": "Monitoring Guide  (8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/multicast_5420-6200-6300-6400-8xxx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:54:20.347562",
+    "title": "Multicast Guide (5420, 6200, 6300, 6400, 8xxx, 9300, 1000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/rest_v10-0x.pdf": {
+    "timestamp": "2025-04-02T16:54:36.738189",
+    "title": "REST v10-0x API Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/vxlan.pdf": {
+    "timestamp": "2025-04-02T16:55:19.681236",
+    "title": "VXLAN Guide (5420, 6200, 6300, 6400, 8325, (8100, 8360, 8400, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/acls_832x-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:55:39.100629",
+    "title": "ACLs and Classifiers Policy Guide (8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/cli_9300.pdf": {
+    "timestamp": "2025-04-02T16:57:24.757785",
+    "title": "CLI Reference Guide (9300 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/diagnostics_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:57:43.832810",
+    "title": "Diagnostics and Supportability Guide (8100, 83xx, 9300, 1000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/elmrg.pdf": {
+    "timestamp": "2025-04-02T16:58:02.972247",
+    "title": "Event Log Message Reference Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/fundamentals_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:58:28.293413",
+    "title": "Fundamentals Guide (8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/ip_route_6300-6400-8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:59:02.608505",
+    "title": "IP Routing Guide (6300, 6400, (8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/ip_services_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:59:20.902770",
+    "title": "IP Services Guide (8100, (83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/l2_bridging_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T16:59:46.626694",
+    "title": "Layer 2 Bridging Guide (8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/link_aggregation.pdf": {
+    "timestamp": "2025-04-02T16:59:58.458528",
+    "title": "Link Aggregation Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/monitoring_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:00:11.174942",
+    "title": "Monitoring Guide  ((8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/multicast_6200-6300-6400-8xxx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:01:20.710225",
+    "title": "Multicast Guide (6200, 6300, 6400, 8xxx, 9300, 1000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/nae.pdf": {
+    "timestamp": "2025-04-02T17:01:35.777819",
+    "title": "Networks Analytics Engine Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/rest_v10-0x.pdf": {
+    "timestamp": "2025-04-02T17:01:47.947535",
+    "title": "REST v10-0x API Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/web_ui_8xxx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:02:17.880221",
+    "title": "Introduction to the WebUI Guide (8xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/cli_9300.pdf": {
+    "timestamp": "2025-04-02T17:04:07.376371",
+    "title": "CLI Reference Guide (9300 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/elmrg.pdf": {
+    "timestamp": "2025-04-02T17:04:33.421843",
+    "title": "Event Log Message Reference Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/fundamentals_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:04:57.191229",
+    "title": "Fundamentals Guide ((8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/ip_route_6300-6400-8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:05:30.365322",
+    "title": "IP Routing Guide (6300, 6400, (8100, 83xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/ip_services_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:05:51.283380",
+    "title": "IP Services Guide (8100, (83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/job_scheduler.pdf": {
+    "timestamp": "2025-04-02T17:05:59.002552",
+    "title": "Job Scheduler Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/l2_bridging_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:06:19.459737",
+    "title": "Layer 2 Bridging Guide ((8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/link_aggregation.pdf": {
+    "timestamp": "2025-04-02T17:06:28.946705",
+    "title": "Link Aggregation Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/monitoring_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:06:41.698007",
+    "title": "Monitoring Guide  ((8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/nae.pdf": {
+    "timestamp": "2025-04-02T17:06:58.774707",
+    "title": "Networks Analytics Engine Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/rest_v10-0x.pdf": {
+    "timestamp": "2025-04-02T17:07:11.668794",
+    "title": "REST v10-0x API Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/snmp_mib.pdf": {
+    "timestamp": "2025-04-02T17:07:25.316293",
+    "title": "SNMP MIB Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/vxlan.pdf": {
+    "timestamp": "2025-04-02T17:07:57.156769",
+    "title": "VXLAN Guide (6200, 6300, 6400, 8325, (8100, 8360, 8400, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/web_ui_8xxx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:08:07.026367",
+    "title": "Introduction to the WebUI Guide (8xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/acls_832x-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:08:20.148871",
+    "title": "ACLs and Classifiers Policy Guide (8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/fundamentals_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:08:57.479502",
+    "title": "Fundamentals Guide ((8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/ip_route_6300-6400-8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:09:29.742947",
+    "title": "IP Routing Guide (6300, 6400, (8100, 83xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/ip_services_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:09:49.773704",
+    "title": "IP Services Guide (8100, (83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/job_scheduler.pdf": {
+    "timestamp": "2025-04-02T17:09:56.804285",
+    "title": "Job Scheduler Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/l2_bridging_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:10:13.877597",
+    "title": "Layer 2 Bridging Guide ((8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/link_aggregation.pdf": {
+    "timestamp": "2025-04-02T17:10:23.724236",
+    "title": "Link Aggregation Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/monitoring_8100-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:10:34.284086",
+    "title": "Monitoring Guide  ((8100, 83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/multicast_6200-6300-6400-8xxx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:11:36.370727",
+    "title": "Multicast Guide (6200, 6300, 6400, 8xxx, 9300, 1000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/rest_v10-0x.pdf": {
+    "timestamp": "2025-04-02T17:11:56.420097",
+    "title": "REST v10-0x API Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/security_8xxx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:12:22.905664",
+    "title": "Security Guide (8xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/vxlan.pdf": {
+    "timestamp": "2025-04-02T17:12:58.422133",
+    "title": "VXLAN Guide (6200, 6300, 6400, 8325, (8100, 8360, 8400, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/web_ui_8xxx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:13:08.628261",
+    "title": "Introduction to the WebUI Guide (8xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/cli_9300.pdf": {
+    "timestamp": "2025-04-02T17:14:52.183580",
+    "title": "CLI Reference Guide (9300 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/copp_83xx-10000.pdf": {
+    "timestamp": "2025-04-02T17:14:58.674816",
+    "title": "CoPP Guide (83xx, 9300,1000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/diagnostics_83xx-10000.pdf": {
+    "timestamp": "2025-04-02T17:15:10.322868",
+    "title": "Diagnostics and Supportability Guide (83xx, 9300, 1000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/elmrg.pdf": {
+    "timestamp": "2025-04-02T17:15:24.675254",
+    "title": "Event Log Message Reference Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/fundamentals_83xx-10000.pdf": {
+    "timestamp": "2025-04-02T17:15:46.287097",
+    "title": "Fundamentals Guide (83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/high_availability.pdf": {
+    "timestamp": "2025-04-02T17:15:57.323360",
+    "title": "High Availability Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/ip_route_6300-6400-83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:16:27.057930",
+    "title": "IP Routing Guide (6300, 6400, 83xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/link_aggregation.pdf": {
+    "timestamp": "2025-04-02T17:16:57.302433",
+    "title": "Link Aggregation Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/monitoring_83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:17:11.175777",
+    "title": "Monitoring Guide  (83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/multicast_6200-6300-6400-8xxx-10000.pdf": {
+    "timestamp": "2025-04-02T17:17:44.952875",
+    "title": "Multicast Guide (6200, 6300, 6400, 8xxx, 9300, 1000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/nae.pdf": {
+    "timestamp": "2025-04-02T17:17:59.712958",
+    "title": "Networks Analytics Engine Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/rest_v1.pdf": {
+    "timestamp": "2025-04-02T17:18:10.185396",
+    "title": "REST v1 API Guide  (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/security_8xxx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:18:42.022599",
+    "title": "Security Guide (8xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/snmp_mib.pdf": {
+    "timestamp": "2025-04-02T17:18:49.645484",
+    "title": "SNMP MIB Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/vxlan.pdf": {
+    "timestamp": "2025-04-02T17:19:17.596455",
+    "title": "VXLAN Guide (6200, 6300, 6400, 8325, 8360, 8400, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.11/PDF/web_ui_8xxx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:19:28.518036",
+    "title": "Introduction to the WebUI Guide (8xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/cli_9300.pdf": {
+    "timestamp": "2025-04-02T17:21:06.979576",
+    "title": "CLI Reference Guide (9300 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/elmrg.pdf": {
+    "timestamp": "2025-04-02T17:21:32.771156",
+    "title": "Event Log Message Reference Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/fundamentals_83xx-10000.pdf": {
+    "timestamp": "2025-04-02T17:21:51.796517",
+    "title": "Fundamentals Guide (83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/high_availability.pdf": {
+    "timestamp": "2025-04-02T17:21:59.881626",
+    "title": "High Availability Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/ip_services_83xx-10000.pdf": {
+    "timestamp": "2025-04-02T17:22:23.476415",
+    "title": "IP Services Guide (83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/job_scheduler.pdf": {
+    "timestamp": "2025-04-02T17:22:30.201895",
+    "title": "Job Scheduler Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/monitoring_83xx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:22:47.424384",
+    "title": "Monitoring Guide  (83xx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/nae.pdf": {
+    "timestamp": "2025-04-02T17:23:07.232174",
+    "title": "Networks Analytics Engine Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/rest_v1.pdf": {
+    "timestamp": "2025-04-02T17:23:20.227657",
+    "title": "REST v1 API Guide  (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/rest_v10-0x.pdf": {
+    "timestamp": "2025-04-02T17:23:33.054534",
+    "title": "REST v10-0x API Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/security_8xxx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:23:49.978654",
+    "title": "Security Guide (8xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/snmp_mib.pdf": {
+    "timestamp": "2025-04-02T17:23:59.979698",
+    "title": "SNMP MIB Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.10/PDF/vxlan.pdf": {
+    "timestamp": "2025-04-02T17:24:26.611930",
+    "title": "VXLAN Guide (6200, 6300, 6400, 8325, 8360, 8400, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://arubanetworking.hpe.com/techdocs/AOS-CX/Consolidated_RNs/HTML-9300/Content/Home.htm": {
+    "timestamp": "2025-04-02T17:24:40.077928",
+    "title": "Untitled Document",
+    "chunks": 1
+  },
+  "aruba_doc_https://arubanetworking.hpe.com/techdocs/AOS-CX/help_portal/Content/home.htm": {
+    "timestamp": "2025-04-02T17:24:47.798413",
+    "title": "AOS-CX Software Documentation portal",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/Consolidated_RNs/HTML-9300/Content/Home.htm": {
+    "timestamp": "2025-04-02T17:24:58.058096",
+    "title": "Release Notes Portal.",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/copp_8400.pdf": {
+    "timestamp": "2025-04-02T17:25:14.832148",
+    "title": "CoPP Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/diagnostics_8400.pdf": {
+    "timestamp": "2025-04-02T17:25:28.470961",
+    "title": "Diagnostics and Supportability Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/fundamentals_8400.pdf": {
+    "timestamp": "2025-04-02T17:25:47.737676",
+    "title": "Fundamentals Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/high_availability.pdf": {
+    "timestamp": "2025-04-02T17:25:57.370906",
+    "title": "High Availability Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/ip_route_8400.pdf": {
+    "timestamp": "2025-04-02T17:26:35.066819",
+    "title": "IP Routing Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/ip_services_8400.pdf": {
+    "timestamp": "2025-04-02T17:26:53.643811",
+    "title": "IP Services Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/job_scheduler.pdf": {
+    "timestamp": "2025-04-02T17:26:59.853983",
+    "title": "Job Scheduler Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/monitoring_8400.pdf": {
+    "timestamp": "2025-04-02T17:27:13.897894",
+    "title": "Monitoring Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/nae.pdf": {
+    "timestamp": "2025-04-02T17:27:29.972666",
+    "title": "Networks Analytics Engine Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/qos_8400.pdf": {
+    "timestamp": "2025-04-02T17:27:41.650813",
+    "title": "Quality of Service Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/snmp_mib.pdf": {
+    "timestamp": "2025-04-02T17:27:55.436157",
+    "title": "SNMP MIB Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/vsx.pdf": {
+    "timestamp": "2025-04-02T17:28:11.853931",
+    "title": "VSX Guide (6400, 8xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.15/PDF/web_ui_8xxx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:28:23.747647",
+    "title": "Introduction to the WebUI Guide (8xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/acls_8400.pdf": {
+    "timestamp": "2025-04-02T17:28:39.077095",
+    "title": "ACLs and Classifier Policy Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/cli_8400.pdf": {
+    "timestamp": "2025-04-02T17:30:27.972209",
+    "title": "CLI Reference Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/fundamentals_8400.pdf": {
+    "timestamp": "2025-04-02T17:31:01.119630",
+    "title": "Fundamentals Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/job_scheduler.pdf": {
+    "timestamp": "2025-04-02T17:31:22.518265",
+    "title": "Job Scheduler Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/l2_bridging_8400.pdf": {
+    "timestamp": "2025-04-02T17:31:41.324533",
+    "title": "Layer 2 Bridging Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/snmp_mib.pdf": {
+    "timestamp": "2025-04-02T17:32:03.612650",
+    "title": "SNMP MIB Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.14/PDF/vsx.pdf": {
+    "timestamp": "2025-04-02T17:32:20.126655",
+    "title": "VSX Guide (6400, 8xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/acls_8400.pdf": {
+    "timestamp": "2025-04-02T17:32:39.981838",
+    "title": "ACLs and Classifier Policy Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/cli_8400.pdf": {
+    "timestamp": "2025-04-02T17:34:33.927885",
+    "title": "CLI Reference Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/diagnostics_8400.pdf": {
+    "timestamp": "2025-04-02T17:34:55.065598",
+    "title": "Diagnostics and Supportability Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/fundamentals_8400.pdf": {
+    "timestamp": "2025-04-02T17:35:13.792856",
+    "title": "Fundamentals Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/ip_route_8400.pdf": {
+    "timestamp": "2025-04-02T17:35:46.429425",
+    "title": "IP Routing Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/ip_services_8400.pdf": {
+    "timestamp": "2025-04-02T17:36:07.430636",
+    "title": "IP Services Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/l2_bridging_8400.pdf": {
+    "timestamp": "2025-04-02T17:36:24.896738",
+    "title": "Layer 2 Bridging Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/security_8xxx-9300-10000.pdf": {
+    "timestamp": "2025-04-02T17:37:12.063006",
+    "title": "Security Guide (8xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.13/PDF/vsx.pdf": {
+    "timestamp": "2025-04-02T17:37:29.726752",
+    "title": "VSX Guide (6400, 8xxx, 9300, 10000 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/acls_8400.pdf": {
+    "timestamp": "2025-04-02T17:37:41.929789",
+    "title": "ACLs and Classifier Policy Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/cli_8400.pdf": {
+    "timestamp": "2025-04-02T17:39:29.171129",
+    "title": "CLI Reference Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/copp_8400.pdf": {
+    "timestamp": "2025-04-02T17:39:37.197596",
+    "title": "CoPP Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/diagnostics_8400.pdf": {
+    "timestamp": "2025-04-02T17:39:50.823133",
+    "title": "Diagnostics and Supportability Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/elmrg.pdf": {
+    "timestamp": "2025-04-02T17:40:07.363470",
+    "title": "Event Log Message Reference Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/fundamentals_8400.pdf": {
+    "timestamp": "2025-04-02T17:40:27.935364",
+    "title": "Fundamentals Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/high_availability.pdf": {
+    "timestamp": "2025-04-02T17:40:37.194734",
+    "title": "High Availability Guide (All Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/ip_route_8400.pdf": {
+    "timestamp": "2025-04-02T17:41:07.144246",
+    "title": "IP Routing Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_doc_https://www.arubanetworks.com/techdocs/AOS-CX/10.12/PDF/ip_services_8400.pdf": {
+    "timestamp": "2025-04-02T17:41:24.953121",
+    "title": "IP Services Guide (8400 Switch Series)",
+    "chunks": 1
+  },
+  "aruba_documentation_https://arubanetworking.hpe.com/techdocs/AOS-CX/Consolidated_RNs/HTML-9300/Content/PDFs.htm": {
+    "timestamp": "2025-04-02T17:41:25.382153",
+    "documents_processed": 122
+  }
+}

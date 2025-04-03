@@ -29,8 +29,8 @@ htmlcov/
 # chroma_db/
 
 # Project-specific cache
-cache/
-tracking/
+# cache/
+# tracking/
 
 # IDE specific files
 .vscode/
@@ -43,4 +43,4 @@ chroma_db/chroma.sqlite3
 temp/
 testt.py
 workin.py
-scraped_data.json
+# scraped_data.json
