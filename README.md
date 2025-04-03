@@ -21,11 +21,13 @@ This project implements a Network Integration Assistant that helps users with ne
 ## Setup
 
 1. Clone the repository
-2. Create a virtual environment `python -m venv venv` & activate it with `venv\Scripts\activate`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Set up environment variables (see `environment.py`)
-5. Run the application: `python main.py`
-6. Run the streamlit app: `streamlit gui.py`
+   ```sh
+git clone https://github.com/A-m-i-t-M/HPE-CPP.git
+3. Create a virtual environment `python -m venv venv` & activate it with `venv\Scripts\activate`
+4. Install dependencies: `pip install -r requirements.txt`
+5. Set up environment variables (see `environment.py`)
+6. Run the application: `python main.py`
+7. Run the streamlit app: `streamlit gui.py`
 
 ## Usage
 
