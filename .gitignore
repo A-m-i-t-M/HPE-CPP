@@ -25,22 +25,21 @@ htmlcov/
 # Logs
 *.log
 
-# ChromaDB files (if you want to exclude database files from version control)
-# chroma_db/
+# ChromaDB files 
+chroma_db/
 
 # Project-specific cache
-# cache/
-# tracking/
+cache/
+tracking/
 
 # IDE specific files
 .vscode/
 .idea/
 *.sublime-*
 
-chroma_db/chroma.sqlite3
 
 # Temporary files
 temp/
 testt.py
 workin.py
-# scraped_data.json
+scraped_data.json
