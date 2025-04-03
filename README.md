@@ -1,4 +1,4 @@
-# Network Integration Assistant
+# RAG for Setting up the Network
 
 This project implements a Network Integration Assistant that helps users with network equipment integration across different vendors.
 
