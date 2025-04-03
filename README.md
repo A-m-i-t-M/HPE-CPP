@@ -14,7 +14,7 @@ This project implements a RAG-based Network Integration Assistant that helps use
 
 - FastAPI backend
 - Vector store using ChromaDB
-- LLM service (currently using DeepSeek, with plans to support Groq)
+- LLM service (Groq API calls to Deepseek-r1-distill-llama-70b)
 - Web scraper for documentation ingestion
 - Document processor for chunking and metadata extraction
 
