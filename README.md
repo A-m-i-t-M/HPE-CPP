@@ -24,6 +24,8 @@ This project implements a RAG-based Network Integration Assistant that helps use
 2. Create a virtual environment `python -m venv venv` & activate it with `venv\Scripts\activate`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Set up environment variables (see `environment.py`)
+   - Add `GROQ_API_KEY` to your environment variables
+   - Set `GROQ_MODEL` (default: "deepseek-r1-distill-llama-70b")
 5. Run the application: `python main.py`
 6. Run the streamlit app: `streamlit gui.py`
 
