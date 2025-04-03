@@ -21,7 +21,9 @@ This project implements a RAG-based Network Integration Assistant that helps use
 ## Setup
 
 1. Clone the repository with `git clone https://github.com/A-m-i-t-M/HPE-CPP.git`
-2. Create a virtual environment `python -m venv venv` & activate it with `venv\Scripts\activate`
+2. Create a virtual environment `python -m venv venv` & activate it.
+   - Windows: `venv\Scripts\activate`
+   - Linux/Mac : `source venv/bin/activate`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Set up environment variables (see `environment.py`)
    - Add `GROQ_API_KEY` to your environment variables
