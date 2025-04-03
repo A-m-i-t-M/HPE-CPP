@@ -29,8 +29,8 @@ This project implements a Network Integration Assistant that helps users with ne
 
 ## Usage
 
-The main entry point is `main.py`. It initializes components and starts the FastAPI server. 
-For the initial run, kindly enter 'y' for all the user prompts. Note: The scraping of the Aruba PDFs takes some time.
-The streamlit app is a provision for the users to enter their prompts. `streamlit run gui.py`
+The main entry point is `main.py`. It initializes components and starts the FastAPI server.\n 
+For the initial run, kindly enter 'y' for all the user prompts. Note: The scraping of the Aruba PDFs takes some time.\n
+The streamlit app is a provision for the users to enter their prompts. `streamlit run gui.py`\n
 Blast away with your queries!
 
